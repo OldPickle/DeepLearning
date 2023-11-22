@@ -1,0 +1,6 @@
+train: C:/yolopred/train
+val: C:/yolopred/val
+
+nc: 36
+
+names : ['deagle', 'm4a4', 'ak47', 'scar20', 'xm1014', 'sawedoff', 'mac10', 'dual_berettas', 'tec9', 'revolver', 'fiveseven', 'glock', 'r8', 'p2000', 'm249', 'm4a1s', 'p90', 'usps', 'p250', 'cz75', 'nova', 'mag7', 'negev', 'mp9', 'mp7', 'ump45', 'ppbizon', 'mp5', 'galil', 'famas', 'aug', 'dg553', 'ssg08', 'awp', 'g3sg1', 'sg553']
